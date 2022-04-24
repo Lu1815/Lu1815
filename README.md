@@ -10,7 +10,7 @@ I've been learning to code for 4 years since I'm studying a degree in systems en
 * 🖥️  See my portfolio at [MyPortfolio](http://luisfelipece.netlify.app)
 * ✉️  You can contact me at [luisfelipece17@gmail.com](mailto:luisfelipece17@gmail.com)
 * 🧠  I'm learning React.js & Nest.js
-* 🤝  I'm open to collaborating on Interesting projects where I can earn experience and inprove my skills.
+* 🤝  I'm open to collaborating on Interesting projects where I can earn experience and improve my skills.
 
 ### Skills
 
