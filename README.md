@@ -4,7 +4,7 @@ Hi 👋 My name is Luis Felipe
 Jr Software Developer
 ---------------------
 
-I've been learning to code for 4 years since I'm studying a degree in systems engineering. Besides the things I've learned in university I've been studying a lot by myself the current tecnologies used to develop good looking and hight quality applications. The results of my self taught learning is on my portfolio which is currently filled just with personal projects to get my first job.
+I've been learning to code for 4 years since I'm studying a degree in systems engineering. Besides the things I've learned in university I've been studying a lot by myself the current tecnologies used to develop good looking and hight quality applications. The results of my self taught learning is on my portfolio which is currently filled just with personal projects.
 
 * 🌍  I'm based in Nicaragua
 * 🖥️  See my portfolio at [MyPortfolio](http://luisfelipece.netlify.app)
