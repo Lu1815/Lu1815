@@ -1,10 +1,10 @@
 Hi 👋 My name is Luis Felipe
 ============================
 
-Jr Software Developer
+Software Developer
 ---------------------
 
-I've been learning to code for 4 years since I'm studying a degree in systems engineering. Besides the things I've learned in university I've been studying a lot by myself the current tecnologies used to develop good looking and hight quality applications. The results of my self taught learning is on my portfolio which is currently filled just with personal projects.
+I am a person who always whish to learn and adquire experience with challenging and fun projects. I'm in the last semester of my career which is the Systems Engineering Degree and my future expectations are getting more involved in the development business to learn best practices and work with awesome teams to achieve projects objectives working together.
 
 * 🌍  I'm based in Nicaragua
 * 🖥️  See my portfolio at [MyPortfolio](http://luisfelipece.netlify.app)
