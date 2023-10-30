@@ -4,7 +4,7 @@ Hi 👋 My name is Luis Felipe
 Software Developer
 ---------------------
 
-I am a person who is always wishing to learn and adquire experience with challenging and fun projects. I'm in the last semester of my career which is the Systems Engineering Degree and my future expectations are getting more involved in the development business to learn best practices and work with awesome teams to achieve projects objectives working together.
+I am a person who is always wishing to learn and adquire experience with challenging and fun projects.
 
 * 🌍  I'm based in Nicaragua
 * 🖥️  See my portfolio at [MyPortfolio](http://luisfelipece.netlify.app)
